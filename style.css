@@ -1,0 +1,19 @@
+body{
+    background-color: rgb(2, 255, 57);
+}
+nav{
+    display: flex;
+    background-color: wheat;
+    width: 100%;
+}
+nav ul{
+    display: flex;
+}
+nav li{
+    list-style: none;
+    background-color: white;
+    margin: 10px;   
+}
+nav li a{
+    text-decoration: none;
+}
